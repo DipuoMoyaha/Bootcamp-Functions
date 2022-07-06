@@ -1,0 +1,164 @@
+
+body{
+    background-color: teal;
+}
+h1{
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+    border-radius: 5px;
+}
+.functions{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-evenly;
+}
+.functions2{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-evenly;
+}  
+
+.greetings{
+    height: 303px;
+    width: 500px;
+    border-radius: 5px;
+    border: 1em;
+    margin: 1em;
+    background-color: lightgoldenrodyellow;
+    padding: 1em; 
+}
+
+.transport-fee{
+    height: 303px;
+    width: 500px;
+    border-radius: 5px;
+    border: 1em;
+    margin: 1em;
+    background-color: lightgoldenrodyellow;
+    padding: 1em; 
+}
+.phonebill{
+    height: 303px;
+    width: 500px;
+   border-radius: 5px;
+    border: 1em;
+    margin: 1em;
+    background-color: lightgoldenrodyellow;
+    padding: 1em; 
+}
+.enough-airtime{
+    height: 303px;
+   width: 500px;
+   border-radius: 5px;
+   border: 1em;
+   margin: 1em;
+   background-color: lightgoldenrodyellow;
+   padding: 1em;  
+}
+.message{
+    padding: 1em;
+    background-color: powderblue;
+    margin-top: 1em;
+    border-radius: 3px;
+    font-family: monospace;
+    font-weight: bold;
+}
+.fare{
+    padding: 1em;
+    background-color: powderblue;
+    margin-top: 1em;
+    border-radius: 3px;
+    font-family: monospace;
+    font-weight: bold;
+}
+.input label{
+display: inline-block;
+width: 15em;
+padding: 0.5em;
+font-weight: bold;
+
+}
+.input > input[type="text"]{
+padding: 0.5em;
+margin: 0.5em;
+
+}
+.balance{
+    padding: 1em;
+    background-color: powderblue;
+    margin-top: 1em;
+    border-radius: 3px;
+    font-family: monospace;
+}   
+.airtime{
+    margin: 1em;
+    font-weight: bold;
+}
+
+.greet-input label{
+    display: inline-block;
+    width: 10em;
+    padding: 1px;
+    font-weight: bold;
+    
+    }
+    .greet-input > input[type="text"]{
+    padding: 7px;
+    margin: 1em;
+    }
+
+    .transport-input label{
+    display: inline-block;
+    width: 8em;
+    padding: 1px;
+    font-weight: bold;
+        
+        }
+        .transport-input > input[type="text"]{
+    padding: 7px;
+    margin: 1em;
+        } 
+    
+    .bill-input label{
+    display: inline-block;
+    width: 14em;
+    padding: 1px;
+    font-weight: bold;
+            
+            }
+    .bill-input > input[type="text"]{
+    padding: 7px;
+    margin: 1em;
+    width: 10em;
+            } 
+    .balance{
+     padding: 1em;
+     background-color: powderblue;
+     margin-top: 1em;
+    border-radius: 3px;
+    font-family: monospace;
+    font-weight: bold;
+    }
+    .word-game{
+        height: 400px;
+        width: 800px;
+       border-radius: 5px;
+        border: 1em;
+        margin: 1em;
+        background-color: lightgoldenrodyellow;
+        padding: 1em;   
+    }
+    .word-input label{
+        display: inline-block;
+        width: 16em;
+        padding: 1px;
+        font-weight: bold;
+                
+                }
+        .word-input > input[type="text"]{
+        padding: 7px;
+        margin: 1em;
+        width: 20em;
+        }
